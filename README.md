@@ -1,4 +1,5 @@
 # Phone Mirroring
+### iPhone Mirroring App Alternative for Android
 Mirror your Android screen on Mac with scrcpy (App Package for MacOS)
 
 ## Requirements
@@ -6,10 +7,11 @@ Mirror your Android screen on Mac with scrcpy (App Package for MacOS)
 - [scrcpy](https://formulae.brew.sh/formula/scrcpy)
 
 ## How to use
-1. Download the Phone Mirroring.app.zip file
-2. Extract the app file to Applications folder on your Mac.
-3. Connect your Android device via ADB. [Learn more about the ADB](https://developer.android.com/tools/adb)
-4. Run the app
+1. Install the required packages.
+2. Download the Phone Mirroring.app.zip file
+3. Extract the app file to Applications folder on your Mac.
+4. Connect your Android device via ADB. [Learn more about the ADB](https://developer.android.com/tools/adb)
+5. Run the app
 
 That's it. you should see your phone screen on your Mac.
 
