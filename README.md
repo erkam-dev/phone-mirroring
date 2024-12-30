@@ -1,5 +1,5 @@
 # Phone Mirroring
-### iPhone Mirroring App Alternative for Mac (to mirror Android of course)
+### iPhone Mirroring App Alternative for Mac (to mirror Android, of course)
 Mirror your Android screen on Mac with scrcpy
 
 ## Requirements
